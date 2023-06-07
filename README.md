@@ -10,7 +10,7 @@ Import the necessary modules in python
 Create a socket connection to using the socket module.
 Send message to the client and receive the message from the client using the Socket module in server
 Send and receive the message using the send function in socket.
-PROGRAM:
+# PROGRAM:
 # CLIENT:
 ```
 import socket
@@ -35,11 +35,11 @@ while True:
    c.send(msg.encode())
    ```
 # CLIENT OUTPUT :
-![image](https://github.com/AGALYARAMESHKUMAR/EX-9/assets/119394395/173cccc8-5bb5-4b03-9043-00cc771a2327)
+![image](https://github.com/AGALYARAMESHKUMAR/EX-9/assets/119394395/a7d08960-c2e0-429e-a0e7-e8ab3f9d4cbb)
 
 
 # SERVER OUTPUT :
-![image](https://github.com/AGALYARAMESHKUMAR/EX-9/assets/119394395/ef4fc1da-0c8e-4117-b697-48ad3ee564bb)
+![image](https://github.com/AGALYARAMESHKUMAR/EX-9/assets/119394395/08808603-9a18-4736-a3f8-a3003543843d)
 
 
 # RESULT:
